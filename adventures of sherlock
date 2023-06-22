@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+    
+</head>
+<body>
+    <hr size="3" noshade="">
+    <h1>THE ADVENTURES OF SHERLOCK HOMES</h1>
+    <br>
+    <h3>by</h3>
+    <br>
+    <h2>SIR ARTHUR CANON DOYLE</h2>
+    <hr size="3" noshade="">   
+</body>
+</html>
