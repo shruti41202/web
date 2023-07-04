@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shruti's Personal Site</title>
+</head>
+
+<body>
+    <img src="shruti.png.jpg" alt="Shruti profile picture." width="200" height="200" style="
+    border-radius: 100%;
+" />
+    <h1>Shruti Sharma</h1>
+    <p><i><strong>I am a web developer.</strong></i></p>
+    <p>I am a pationate Web Developer.I love to know more things about the software and websites.</p>
+    <hr>
+    <h3>Education and skills</h3>
+    <ul>
+        <li>I completed my schooling from T.R.M.Public School.</li>
+        <li>I completed my under graduation degree from <a href="https://www.srmup.in/"> S.R.M.University of Science and
+                Technology Delhi NCR campus.</a>
+        </li>
+        <li>I am a problem solver.</li>
+        <li>I am a good listener and have a ability of leadership. </li>
+        <li>I am more interested in knowing and practising activities on websites.</li>
+    </ul>
+    <h3>My hobbies</h3>
+    <ul>
+        <li>I love to dance.</li>
+        <li>I love singing.</li>
+        <li>I love to spend time with dogs.</li>
+        <br>
+    </ul>
+    <h3>Contact Me</h3>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/shruti-sharma-192750217">Linked in</a></li>
+        <li> <a href="https://instagram.com/shruuuutiiii_?igshid=NGExMmI2YTkyZg==">Instagram</a></li>
+        <h4>My address:</h4>
+        <p>Aakash Vihar, F-133,Sikri Kalan, Modinagar,Ghaziabad.</p>
+        <li> <a
+                href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://myaccount.google.com/%3Fhl%3Den_GB%26utm_source%3DOGB%26utm_medium%3Dact&ec=GBRAwAE">my
+                email</a></li>
+                <br>
+                <form action=""></form>
+                <label for=" name">Your Name:</label>
+                <input type="text">
+                <br>
+                <br>
+                <label for="email">Your email:</label>
+                <input type="email" name="" id="">
+                <br>
+                <br>
+                <label for="Message">Your Message:</label>
+                <textarea name="" id="" cols="20" rows="5"></textarea>
+                <input type="submit">
+               
+    </ul>
+    <hr>
+    <h3> Work experiences</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Experiences</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>2021-2023</td>
+            <td>Junior Pilot at CSE department</td>
+        </tr>
+        <tr>
+            <td>2020-2024</td>
+            <td>Not done yet</td>
+        </tr>
+    </table>
+    <br>
+    <hr>
+    <h3>Skills</h3>
+    <table>
+        <tr>
+            <td>Problem Solving</td>
+        </tr>
+        <tr></tr>
+        <td>Learner</td>
+        </tr>
+        <tr>
+            <td>C programming language</td>
+        </tr>
+        <tr>
+            <td>C++</td>
+        </tr>
+        <tr>
+            <td>Web development</td>
+        </tr>
+        <tr>
+            <td>Algorithms</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
